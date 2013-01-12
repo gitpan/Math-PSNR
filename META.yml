@@ -9,7 +9,7 @@ build_requires:
 configure_requires:
   Module::Build: 0.40
 dynamic_config: 0
-generated_by: 'Module::Build version 0.4003, CPAN::Meta::Converter version 2.112621'
+generated_by: 'Module::Build version 0.4003, CPAN::Meta::Converter version 2.112150'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -21,7 +21,7 @@ no_index:
 provides:
   Math::PSNR:
     file: lib/Math/PSNR.pm
-    version: 0.01
+    version: 0.02
 requires:
   Carp: 0
   Mouse: 1.02
@@ -30,4 +30,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/moznion/p5-Math--PSNR.git
-version: 0.01
+version: 0.02

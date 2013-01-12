@@ -4,7 +4,7 @@
       "moznion <moznion@gmail.com>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Module::Build version 0.4003, CPAN::Meta::Converter version 2.112621",
+   "generated_by" : "Module::Build version 0.4003, CPAN::Meta::Converter version 2.112150",
    "license" : [
       "perl_5"
    ],
@@ -43,7 +43,7 @@
    "provides" : {
       "Math::PSNR" : {
          "file" : "lib/Math/PSNR.pm",
-         "version" : "0.01"
+         "version" : "0.02"
       }
    },
    "release_status" : "stable",
@@ -55,5 +55,5 @@
          "url" : "git://github.com/moznion/p5-Math--PSNR.git"
       }
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }
